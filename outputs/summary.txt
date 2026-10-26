@@ -1,0 +1,6 @@
+Transactions: 720
+Unique orders: 360
+Gross sales (fictional USD): 19,187.21
+Net sales (fictional USD): 16,847.02
+Average order value: 46.80
+Returned line rate: 5.4%
